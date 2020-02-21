@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 900px;
+    height:600px;
+    margin: auto;
+}
+.head-left{
+    width: 400px;
+    float: left;
+    padding-top: 40px;
+}
+.name-highlight{
+    color: deeppink;
+}
+.head-right img{
+    width: 400px;
+    padding-top: 20px;
+}
+.head-left p{
+    text-align: justify;
+}
+
+.button{
+    text-decoration: none;
+    background-color: #FF1493;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: 700;
+}
+.button:hover{
+    background-color: darkgoldenrod;
+    font-size: larger;
+}
+
+.bio-left img{
+    width: 400px;
+    padding-top: 20px;
+    float: left;
+    
+}
+.bio-right{
+    width: 400px;
+    height: 400px;
+    padding-left: 50px;
+    padding-top: 40px;
+    overflow: hidden;
+}
+.bio p{
+    text-align: justify; 
+}
+
+.latest{
+    text-align: center;
+}
+
+.work-left{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.work-middle{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.work-right{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.review h1,h4,h6,p{
+    text-align: center;
+}
+.review h6{
+    font-weight: 400;
+    color:#afaaaa;
+}
+
+.email{
+    width: 400px;
+    height: 80px;
+    border-radius: 4px;
+    margin: auto;
+    background-color:rgb(214, 40, 133);
+    color: #cfc8c8;
+}
+.email{
+    line-height: 20%;
+}
+.email h6{
+    padding-top: 20px;
+}
+.email p{
+    font-size: larger;
+    font-weight: 700;
+}
+
+footer p{
+    text-align: center;
+}
+/* .work-left{
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-image:url("images/work-1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkseagreen;
+}
+.work-middle{
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-image:url("images/work-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkturquoise;
+}
+.work-right{
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-image:url("images/work-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: green;
+} */
