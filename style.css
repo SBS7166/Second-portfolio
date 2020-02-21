@@ -6,9 +6,13 @@ body{
     height:600px;
     margin: auto;
 }
+.head-bg{
+    background-color: rgb(238, 229, 229);
+}
 .head-left{
     width: 400px;
     float: left;
+    padding-left: 20px;
     padding-top: 40px;
 }
 .name-highlight{
